@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eye Animation Test
+* source:	https://sketchfab.com/3d-models/eye-animation-test-d57a94b6e8564af4b16338c1e916c2d3
+* author:	Nightfoxy3D (https://sketchfab.com/Nightfoxymc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eye Animation Test" (https://sketchfab.com/3d-models/eye-animation-test-d57a94b6e8564af4b16338c1e916c2d3) by Nightfoxy3D (https://sketchfab.com/Nightfoxymc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

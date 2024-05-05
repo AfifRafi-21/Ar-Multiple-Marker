@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tiger's Eye
+* source:	https://sketchfab.com/3d-models/tigers-eye-8762237f25f54e57b66a3f786b9304c7
+* author:	cherishloveart (https://sketchfab.com/cherishloveart)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tiger's Eye" (https://sketchfab.com/3d-models/tigers-eye-8762237f25f54e57b66a3f786b9304c7) by cherishloveart (https://sketchfab.com/cherishloveart) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

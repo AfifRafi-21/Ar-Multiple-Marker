@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grundig Radio FR-250 Free AM FM SW
+* source:	https://sketchfab.com/3d-models/grundig-radio-fr-250-free-am-fm-sw-a8d7fe770fcf40ba8e257f5c73d2d55b
+* author:	Gher (https://sketchfab.com/Gher)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grundig Radio FR-250 Free AM FM SW" (https://sketchfab.com/3d-models/grundig-radio-fr-250-free-am-fm-sw-a8d7fe770fcf40ba8e257f5c73d2d55b) by Gher (https://sketchfab.com/Gher) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

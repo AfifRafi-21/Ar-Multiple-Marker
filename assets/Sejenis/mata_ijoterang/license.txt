@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eye
+* source:	https://sketchfab.com/3d-models/eye-d91433697cb94ba5a3b8140cbea0d60c
+* author:	deadpool (https://sketchfab.com/lvlup)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eye" (https://sketchfab.com/3d-models/eye-d91433697cb94ba5a3b8140cbea0d60c) by deadpool (https://sketchfab.com/lvlup) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
